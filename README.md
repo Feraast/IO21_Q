@@ -4,8 +4,11 @@ Interview question (IO21):
 ML Facial Detection
 
 Application Server: Node JS
+
 Middleware: Express
+
 Backend: MongoDB
+
 Machine Learning Library: "node-red-contrib-face-recognition" node in Node-Red
 
 To run this, you need to install Node Red, which is where the ML portion is taking place. After installation, you need to go to localhost:1880 on the browser and import the flow below (copy paste). After deploying the flow shown below, you can run app.js in this repo from VS Code or any other IDE normally.
